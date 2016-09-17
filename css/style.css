@@ -1,0 +1,47 @@
+.contenedor{
+	text-align: center;
+	color: #5F4C0B;
+	font-family: "Calibri";
+	background-color: #F5A9BC;
+	width: 700px;
+	margin: 0px ;
+	text-transform: uppercase;
+	border-radius: 20px;
+	box-shadow: 0 0 10px #F1D4D4;
+}
+.titular{
+	font-size: 40px;
+}
+.titular span{
+	display: block;
+	font-size: 160px;
+	font-weight: bold;
+	line-height: 110px;
+	margin-top: 5px;
+}
+.requisitos{
+	margin-top: 60px;
+	color: #DF013A;
+	margin-bottom: 60px;
+}
+.requisitos ul{
+	color: #5F4C0B;
+	font-size:40px;
+	text-align: left;
+	width: 250px;
+	margin: 8px auto;
+}
+.envianos{
+	color: #0000FF;
+}
+.envianos a{
+	
+	text-decoration: none; 
+	border-radius: 1px; 
+	font-weight: bold;
+	color: #DF013A;
+	
+}
+.logo p{
+	font-family: 'Time new Roman';
+}
